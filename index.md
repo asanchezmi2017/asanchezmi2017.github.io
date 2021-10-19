@@ -1,8 +1,7 @@
-# Turtlebot 3
 
 Hola, mi nombre es Antonio Sánchez Mranda y este es el repositorio donde actualizaré mis avances de mi [Turtlebot 3](https://github.com/asanchezmi2017/hello-world) te invito a visitarlo y a colaborar.
 
-A continuación les muestro una imagen de mi espacio de trabajo:
+A continuación les muestro una imagen de mi espacio de trabajo: ![ESpacio de Trabajo](https://github.com/asanchezmi2017/asanchezmi2017.github.io/blob/gh-pages/IMG_3592.jpg)
 
 
 ## Writing a Publisher and subscriber 
