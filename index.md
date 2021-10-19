@@ -1,13 +1,12 @@
-## Welcome to GitHub Pages
+## Turtlebot 3
 
-You can use the [editor on GitHub](https://github.com/asanchezmi2017/asanchezmi2017.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Este es el repositorio donde actualizaré mis avances de mi [Turtlebot 3](https://github.com/asanchezmi2017/hello-world) te invito a visitarlo y a colaborar.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Writing a Publisher and subscriber 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Vamos a empezar poniendo el código que necesitamos para publicar y suscribirnos a un topic
+# Publisher 
 ```markdown
 Syntax highlighted code block
 
@@ -32,6 +31,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/asanchezmi2017/asanchezmi2017.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Contacto
+Pueden contactar conmigo a través de mi correo a.sanchezmi.2017@alumnos.urjc.es
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
